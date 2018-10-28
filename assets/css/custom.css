@@ -1,0 +1,46 @@
+thead, th, table {
+
+    border:solid 1px black;
+    border-collapse:collapse;
+}
+
+th {
+
+    background-color:LightGrey;
+    width:100px;
+}
+
+td {
+    border:solid 1px black;
+    width:100px;
+    background-color:white;
+
+}
+
+td {
+
+    width:100px;
+    border:solid 1px black;
+}
+
+tfoot {
+
+    border: solid 1px black;
+    border-collapse:collapse;
+    width:100px;
+}
+
+input {
+    width:94px;
+    text-color:black;
+    background-color:white;
+    text-align:right;
+}
+
+input:focus {
+   background-color:#CCFFFF;
+}
+
+tr:hover td {
+   background:#FFFFCC !important;
+}

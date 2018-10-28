@@ -30,6 +30,7 @@ if ($_POST) {
     <meta name="description" content="Website description">
     <meta name="keywords" content="Site keywords">
     <link rel="stylesheet" href="./assets/css/bootstrap.min.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="./assets/css/custom.css" type="text/css" media="screen" />
 </head>
 
 <body>
